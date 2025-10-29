@@ -14,17 +14,7 @@ A classic **Tetris puzzle game** built with plain **HTML, CSS, and JavaScript**.
 - Keyboard controls with optional pause and reset.
 - Single-file implementation for easy hosting.
 
-## 🕹️ Controls
 
-| Key | Action |
-|-----|--------|
-| ←   | Move left |
-| →   | Move right |
-| ↓   | Soft drop |
-| ↑   | Rotate |
-| Space | Hard drop |
-| P   | Pause |
-| R   | Restart |
 
 ## ⚡ How to Play
 
