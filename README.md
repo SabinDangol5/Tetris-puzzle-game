@@ -2,7 +2,7 @@
 
 A classic **Tetris puzzle game** built with plain **HTML, CSS, and JavaScript**. Play directly in your browser with no installation required.
 
-![Gameplay Screenshot](assets/screenshots/gamepalyScreeshot.png
+![Gameplay Screenshot](assets/screenshots/gamepalyScreeshot.png)
 
 
 ## 🎮 Features
